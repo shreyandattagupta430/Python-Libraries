@@ -1,2 +1,2 @@
 # Python-Libraries
-All data types of python
+All data types and operators of python
